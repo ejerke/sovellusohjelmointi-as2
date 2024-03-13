@@ -1,0 +1,229 @@
+ready
+ready
+ready
+ready
+d 16 25
+d 19 15
+d 6 61
+d 8 19
+l 3
+ready
+w 6 99
+ready
+l 3
+ready
+w 20 3
+ready
+ready
+w 6 89
+w 1 17
+deposited 25€ succesfully
+t 9 4 66
+transferred 66€ succesfully from acc: 9 to 4
+ready
+d 4 93
+deposited 15€ succesfully
+l 8
+deposited 61€ succesfully
+w 19 54
+withdrew 54€ succesfully
+l 19
+deposited 19€ succesfully
+t 11 13 79
+balance of 3 is 2252€
+d 11 31
+withdrew 99€ succesfully
+d 19 42
+balance of 3 is 2252€
+d 10 79
+withdrew 3€ succesfully
+t 15 19 81
+w 19 84
+withdrew 89€ succesfully
+d 4 99
+withdrew 17€ succesfully
+w 16 38
+deposited 93€ succesfully
+d 15 43
+balance of 8 is 238€
+transferred 79€ succesfully from acc: 11 to 13
+w 5 15
+l 9
+balance of 19 is 1954€
+d 15 100
+deposited 31€ succesfully
+d 5 38
+l 9
+deposited 42€ succesfully
+deposited 79€ succesfully
+transferred 81€ succesfully from acc: 15 to 19
+d 8 61
+withdrew 84€ succesfully
+d 18 93
+l 17
+deposited 99€ succesfully
+d 15 32
+withdrew 38€ succesfully
+deposited 43€ succesfully
+t 17 8 15
+d 14 58
+withdrew 15€ succesfully
+d 18 24
+balance of 9 is 867€
+t 6 9 17
+deposited 100€ succesfully
+l 16
+balance of 9 is 867€
+deposited 38€ succesfully
+w 6 64
+deposited 61€ succesfully
+d 5 63
+deposited 93€ succesfully
+t 18 1 95
+balance of 17 is 4207€
+w 9 23
+d 20 100
+deposited 32€ succesfully
+w 7 15
+transferred 15€ succesfully from acc: 17 to 8
+d 20 72
+deposited 58€ succesfully
+w 9 95
+transferred 17€ succesfully from acc: 6 to 9
+t 7 15 73
+deposited 24€ succesfully
+w 10 14
+balance of 16 is 1057€
+d 6 55
+withdrew 64€ succesfully
+w 8 57
+d 20 52
+deposited 63€ succesfully
+withdrew 23€ succesfully
+d 8 26
+transferred 95€ succesfully from acc: 18 to 1
+w 20 25
+deposited 100€ succesfully
+w 18 39
+withdrew 15€ succesfully
+l 18
+deposited 72€ succesfully
+transferred 73€ succesfully from acc: 7 to 15
+w 13 18
+withdrew 95€ succesfully
+withdrew 14€ succesfully
+w 20 56
+w 12 71
+deposited 55€ succesfully
+l 5
+withdrew 57€ succesfully
+d 10 80
+deposited 26€ succesfully
+t 9 8 28
+deposited 52€ succesfully
+d 19 43
+withdrew 25€ succesfully
+t 16 6 39
+withdrew 39€ succesfully
+balance of 18 is 3735€
+w 14 57
+d 13 66
+withdrew 18€ succesfully
+t 17 3 49
+withdrew 56€ succesfully
+w 11 71
+withdrew 71€ succesfully
+balance of 5 is 2088€
+w 1 55
+d 3 64
+deposited 80€ succesfully
+w 9 13
+transferred 28€ succesfully from acc: 9 to 8
+l 16
+deposited 43€ succesfully
+l 13
+transferred 39€ succesfully from acc: 16 to 6
+d 12 69
+withdrew 57€ succesfully
+l 11
+deposited 66€ succesfully
+l 9
+No such account
+No such account
+l 19
+withdrew 56€ succesfully
+No such account
+withdrew 71€ succesfully
+No such account
+w 4 31
+balance of 5 is 2088€
+d 18 79
+No such account
+l 20
+d 8 2
+deposited 80€ succesfully
+d 3 74
+w 9 2
+balance of 13 is 0€
+d 11 9
+balance of 16 is 0€
+d 16 6
+w 16 33
+No such account
+transferred 39€ succesfully from acc: 16 to 6
+d 8 1
+balance of 19 is 0€
+balance of 11 is 0€
+balance of 9 is 0€
+d 6 5
+No such account
+l 11
+w 9 25
+t 19 4 43
+withdrew 56€ succesfully
+l 16
+No such account
+d 8 47
+withdrew 71€ succesfully
+No such account
+w 10 30
+d 18 69
+balance of 5 is 2088€
+No such account
+l 18
+l 16
+No such account
+deposited 80€ succesfully
+d 20 57
+balance of 13 is 0€
+d 10 62
+No such account
+l 4
+balance of 16 is 0€
+d 20 59
+q
+No such account
+q
+transferred 39€ succesfully from acc: 16 to 6
+No such account
+q
+die
+balance of 19 is 0€
+balance of 11 is 0€
+q
+No such account
+withdrew 56€ succesfully
+die
+No such account
+q
+balance of 20 is 0€
+q
+die
+No such account
+balance of 5 is 2088€
+No such account
+deposited 80€ succesfully
+q
+q
+q
+q
